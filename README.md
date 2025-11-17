@@ -5,14 +5,15 @@
 
 ## 📌 주차별 실습 기록
 
-- [Week 2: Miniconda + JupyterLab](Week02.md)
-- [Week 3: VS Code + Git 연동](Week03.md)
-- [Week 4: PostgreSQL 설치 및 SQL](Week04.md)
-- [Week 5: DBeaver 데이터베이스 GUI](Week05.md)
-- [Week 6: Plotly + Dash 대시보드](Week06.md)
-- [Week 7: Scikit-learn 머신러닝](Week07.md)
-- [Week 8: Matplotlib + Seaborn 시각화](Week08.md)
-
+- [Week 2: Miniconda + JupyterLab](Week02.md)  
+- [Week 3: VS Code + Git 연동](Week03.md)  
+- [Week 4: PostgreSQL 설치 및 SQL](Week04.md)  
+- [Week 5: DBeaver 데이터베이스 GUI](Week05.md)  
+- [Week 6: Plotly + Dash 대시보드](Week06.md)  
+- [Week 7: Scikit-learn 머신러닝](Week07.md)  
+- [Week 8: Matplotlib + Seaborn 시각화](Week08.md)  
+- [Week 9: MLflow 실험 기록 및 비교](Week09.md)  
+- [Week 10: Streamlit 머신러닝 웹앱](Week10.md)  
 
 ## 사용 기술
 - Ubuntu 22.04
