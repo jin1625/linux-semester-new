@@ -14,6 +14,9 @@
 - [Week 8: Matplotlib + Seaborn 시각화](Week08.md)  
 - [Week 9: MLflow 실험 기록 및 비교](Week09.md)  
 - [Week 10: Streamlit 머신러닝 웹앱](Week10.md)  
+- [Week 11: DuckDB로 CSV SQL 분석](Week11.md)  
+- [Week 12: Joblib 모델 저장 및 로드](Week12.md)  
+
 
 ## 사용 기술
 - Ubuntu 22.04
